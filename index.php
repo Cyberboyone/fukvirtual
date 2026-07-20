@@ -152,6 +152,7 @@ if (isset($_SESSION['user_id'])) {
             text-align: center;
             position: relative;
             overflow: hidden;
+            padding-top: 80px;
         }
         
         .hero-content h1 {
